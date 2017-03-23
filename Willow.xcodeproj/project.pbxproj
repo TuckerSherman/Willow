@@ -357,9 +357,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4CFE82AF1A6C484B0002868E /* Build configuration list for PBXNativeTarget "Willow iOS" */;
 			buildPhases = (
+				4CFE82961A6C484A0002868E /* Headers */,
 				4CFE82941A6C484A0002868E /* Sources */,
 				4CFE82951A6C484A0002868E /* Frameworks */,
-				4CFE82961A6C484A0002868E /* Headers */,
 				4CFE82971A6C484A0002868E /* Resources */,
 			);
 			buildRules = (
